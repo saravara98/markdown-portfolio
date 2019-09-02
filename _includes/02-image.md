@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Spongebob happy dance](http://giphygifs.s3.amazonaws.com/media/nDSlfqf0gn5g4/giphy.gif)
